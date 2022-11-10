@@ -1,10 +1,12 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# MySQL All For One
+###### by _[Paulo Medeiros](https://www.linkedin.com/in/paulo-medeiros-dev1879/)_
+
+## :man_technologist: Habilidades desenvolvidas
+* Foi desenvolvido para criar soluções que envolvam os principais comandos e conceitos iniciais do SQL!
+
+## ⚙️ Como Executar
+Clone o repositório em uma pasta de preferência
+
+```
+git@github.com:PauloMedeiros1879/Project-MySQL-All-For-One.git
+```
